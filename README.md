@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Giselle Corporan
 
-<!--
-**gcorporan/gcorporan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 15+ years of experience leading development teams and building enterprise systems in logistics and telecommunications. I specialize in backend development, data, and applied AI — and I'm a native Spanish speaker based in Philadelphia, PA.
 
-Here are some ideas to get you started:
+## Tech stack
+- **Languages:** C# · Java · Python · SQL · JavaScript · PHP
+- **Frameworks & tools:** Spring Boot · .NET · Flask · Node.js · Docker · REST APIs
+- **Databases:** SQL Server · MySQL · PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **ia_generator** — Full-stack AI business idea generator (Python/Flask + Google Gemini) with a live demo: turns a simple prompt into a validated, scalable business plan.
+- **springboot-logistics-api** — REST API for package tracking built with Java Spring Boot, with unit tests and a CI-ready structure.
+
+## Background
+- M.S. in Software Engineering — Universidad de Alcalá (Madrid)
+- Diploma in Artificial Intelligence — ITLA
+- B.S. in Systems Engineering — UNICDA
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/giselle-corporan-22914365
+- Open to: Software Engineer · Data Analyst · AI Trainer roles — Philadelphia / Remote
+- Authorized to work in the United States
